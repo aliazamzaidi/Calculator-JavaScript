@@ -6,6 +6,8 @@ body{
     background-color: white;
     border: 1px solid white;
     border-radius: 15px;
+    background-image: url("http://www.planwallpaper.com/static/images/black-3d-tiles-vo4_ivX44qL.jpg");
+    /*background-repeat:*/
 }
 .title{
     font-size: 4em;
